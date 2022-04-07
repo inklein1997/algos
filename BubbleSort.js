@@ -1,4 +1,5 @@
 // The largest value bubbles to the top
+// time complexity O(n^2)
 
 const bubbleSort = (arr) => {
     let noSwaps;
